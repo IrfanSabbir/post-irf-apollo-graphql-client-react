@@ -1,0 +1,20 @@
+.item a{
+    /* margin-bottom: 5px; */
+    float: left;
+    padding:0px 0px 10px;
+    text-decoration: none;
+    /* font-size: 40px; */
+    
+
+    color: rgb(27, 27, 27);
+  
+    /* letter-spacing: 1px; */
+}
+.item a:hover,
+.item a:active,
+.item a.active {
+    /* color: rgb(100,149,237); */
+    color: rgb(53, 52, 52);
+    font-weight: bold;
+    
+}

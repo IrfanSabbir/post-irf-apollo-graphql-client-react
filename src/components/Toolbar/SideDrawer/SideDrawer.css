@@ -1,0 +1,38 @@
+.SideDrawer{
+    top: 0;
+    margin-top: 72px;
+    left: 0;
+    padding: 32px 16px;
+    width: 200px;
+    height: 600px;
+    position: fixed ;
+    background-color: rgb(235, 235, 235);
+    color: rgb(250, 250, 250);
+    font-size: large;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: row;
+    z-index: 700;
+    border-radius: 0px 30px 0px 0px;
+    /* border-top: 70px solid rgb(184, 8, 8); */
+}
+/* .Close{
+    top:0;
+    left:0;
+    margin: auto;
+    height: 50px;
+    width: 60%;
+    
+    position: fixed;
+    background-image: linear-gradient(260deg,  #7d0892 0%, #3e7295 100%); 
+    color: rgb(245, 244, 246);
+    font-size: 20px;
+    z-index: 700;
+    ra
+} */
+
+/* @media(min-width:500px){
+    .SideDrawer{
+        display: none;
+    }
+} */

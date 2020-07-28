@@ -1,0 +1,14 @@
+.Modal {
+    width: 60%;
+    top: 5%;
+    left: 20%;
+    margin:auto;
+    min-height: 300px;
+    max-width: auto;
+    background-color: rgb(233, 233, 233);
+    border: 5px solid rgb(8, 93, 133);
+    box-shadow: 5px 5px 0 0 #c8c7c7;
+    border-radius: 02%;
+    position: fixed;
+    z-index: 100;
+}

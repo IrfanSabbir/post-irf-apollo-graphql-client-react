@@ -1,0 +1,30 @@
+.Navigation{
+    height: 100%;
+    /* color: rgb(58, 58, 58); */
+    text-decoration: none;
+    display: flex;
+    flex-flow: initial;
+    justify-content: center;
+    align-items: center;
+}
+.Navigation li{
+    list-style: none;
+    padding-right: 20px;
+}
+.Navigation a{
+    font-size: 20px;
+    color: rgb(7, 7, 7);
+    height: 100%;
+    padding-bottom: 17px;
+    text-decoration: none;
+}
+.Navigation a:hover,
+.Navigation a:active,
+.Navigation a.active 
+{
+    /* color: rgb(162, 85, 192); */
+    height: 100%;
+    /* color: rgb(29, 29, 29); */
+    
+    border-bottom: 5px solid rgb(122, 122, 122)
+}

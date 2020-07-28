@@ -1,0 +1,74 @@
+.NavigationSide{
+    margin-top: 20px;
+    width: 100%;
+    /* height: 100%; */
+    /* color: rgb(58, 58, 58); */
+    /* text-decoration: none; */
+     /* display: flex; */
+    /* flex-flow: initial; */
+    /* justify-content: center; */
+    /* align-items: center;  */
+}
+.NavigationSide li{
+    list-style: none;
+    width: 100%;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    /* padding-right: 20px; */
+}
+.NavigationSide a{
+    font-size: 20px;
+    color: rgb(245, 245, 245);
+    width: 100%;
+    padding-bottom: 17px;
+    text-decoration: none;
+}
+.NavigationSide a:hover,
+.NavigationSide a:active,
+.NavigationSide a.active 
+{
+    /* color: rgb(162, 85, 192); */
+    /* height: 100%; */
+    /* color: rgb(85, 81, 81); */
+    
+    border-bottom: 5px solid rgb(58, 58, 58)
+}
+
+
+.root1{
+    color: lightgrey;
+}
+.root {
+    float: left;
+    
+    /* height: 260px; */
+    /* flex-grow: 1; */
+    /* max-width: 400px; */
+  }
+    .items {
+    font-size: 30;
+    color: rgb(27, 27, 27);
+  } 
+  /* .items:hover,
+ .items:active,
+ .items.active {
+    
+    color: rgb(36, 35, 35);
+    font-weight: bold;
+    
+}  */
+/* .item a{
+    margin-bottom: 3px;
+    text-decoration: none;
+    color: rgb(209, 205, 205);
+  
+    letter-spacing: 1px;
+}
+.item a:hover,
+.item a:active,
+.item a.active {
+
+    color: rgb(73, 73, 73);
+    font-weight: bold;
+    
+} */
